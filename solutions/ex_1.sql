@@ -16,6 +16,8 @@ INSERT INTO dolphin
 VALUES('Elya','green',4,1);
 INSERT INTO dolphin
 VALUES('Naama','blue',4,0);
+INSERT INTO dolphin
+VALUES('Rony','red',18,0);
 
 SELECT name 
 FROM dolphin
